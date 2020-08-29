@@ -1,1 +1,3 @@
-jsl_convertible_bond
+### 集思录可转债待发转债自动获取
+
+为了更为方便的从集思录待发可转债界面（https://www.jisilu.cn/data/cbnew/#pre）获取信息，编写了自动爬取待发可转债的信息的python程序，运行即可得到csv格式的待发可转债文件（程序运行当前时间之前所有待发的转债）。
